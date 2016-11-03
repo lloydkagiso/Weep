@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    tools:context="com.example.user18.weep.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="1"
+        android:id="@+id/numbers"
+        android:text="@string/stNumber"
+        style="@style/buttonSet"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_weight="1"
+        android:id="@+id/nature"
+        android:text="@string/stNature"
+        style="@style/buttonSet"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="1dp"
+        android:id="@+id/presidents"
+        android:text="@string/stPresidets"
+        style="@style/buttonSet"/>
+</LinearLayout>

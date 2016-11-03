@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quizing</string>
+    <string name="stNumber">Numbers</string>
+    <string name="stNature">Nature</string>
+    <string name="stPresidets">Presidents</string>
+
+
+    <string name="question1">what is your name </string>
+    <string name="male_or_female">Are you male or female?</string>
+    <string name="nationality">What is your nationality?</string>
+    <string name="age">How old are you?</string>
+    <string name="vice_president">Who is South African vice President?</string>
+    <string name="first_president">Who was the first President in ANC?</string>
+    <string name="zimbabwe">Who is the President of the Opposing party in Zimbabwe?</string>
+    <string name="un">Who is the president Of United Nation (UN)</string>
+    
+    <string name="x">What is the second number after 3?</string>
+    <string name="multi">100 * 0=?</string>
+    <string name="zero">20 + 20 * 0=?</string>
+    <string name="one">x= 4; 14 + 1 / x=?</string>
+
+
+    <string name="export">Which country is the world?s largest exporter of grain? </string>
+    <string name="letterV">In computing, what does the V stand for in DTV? </string>
+    <string name="nylon"> Nylon took it?s name from which two cities?</string>
+    <string name="letterQ">Which letter is farthest left on a computer keyboard? </string>
+
+
+
+</resources>
